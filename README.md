@@ -1,65 +1,29 @@
+# Pedro Melo
 
+Senior Software Engineer based in Brasilia, Brazil (UTC-3), with six years of experience building customer-facing products and integration-heavy systems.
 
-###
+My deepest expertise is in **Vue, Nuxt, and TypeScript**. I also work across **React, Next.js, Node.js, Python, and PHP**, taking features from product discovery and frontend architecture through APIs, persistence, deployment, and production support.
 
-<img align="left" height="250" src="https://i.imgur.com/Ar6JRx0.png"  />
+## What I work on
 
-###
+- **Frontend architecture** - design systems, complex responsive interfaces, framework migrations, testing, and performance
+- **Payments and integrations** - financial and crypto workflows, third-party APIs, webhooks, and reliable asynchronous state
+- **AI-native delivery** - agent harnesses, reusable repository context, skills, MCP integrations, and explicit validation loops
+- **Product engineering** - translating ambiguous requirements into maintainable software for small, fast-moving teams
 
-<p align="center">𝚖𝚢 𝚜𝚝𝚊𝚌𝚔</p>
+## Core stack
 
-###
+`Vue 2/3` · `Nuxt` · `TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `PHP` · `PostgreSQL` · `Docker` · `AWS` · `Azure`
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="25" alt="nuxtjs logo"  />
-  <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="25" alt="tailwind logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="25" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="25" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="25" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" height="25" alt="neo4j logo"  />
-</div>
+## Selected public work
 
-###
+- [Performance Dump Viewer](https://github.com/melloirl/dump-analyzer) - local-first inspection of SSR, API, resource, client, and error timing data
+- [Online Museum Backend](https://github.com/melloirl/online-museum-backend) - FastAPI, PostgreSQL, Alembic, S3-compatible storage, QR generation, tests, and CI
+- [Philactery](https://github.com/melloirl/ttrpg-frontend) - Vue 3 and TypeScript frontend prototype with reusable UI foundations and localization
+- [I built a package manager for my AI agent skills. Then I deleted it.](https://omelo.dev/writing/building-harp) - an engineering retrospective about agent skills, developer tooling, and removing unnecessary complexity
 
-<p align="center">𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚘𝚗</p>
+## Elsewhere
 
-###
+[Portfolio](https://omelo.dev/) · [LinkedIn](https://www.linkedin.com/in/melloirl/) · [Email](mailto:hello@omelo.dev)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="25" alt="elixir logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/erlang/erlang-original.svg" height="25" alt="erlang logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" height="25" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" height="25" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="25" alt="bash logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/melloirl/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Let's%20connect!&logo=linkedin&label=&color=cbe7be&logoColor=35494e&labelColor=&style=flat" height="20" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+Open to senior remote contractor opportunities with product-minded teams.
